@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "state": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "region": "South India",
+    "content": "Andhra Pradesh is a coastal state in southern India known for its rich Telugu culture and heritage. Amaravati is its newly developed capital. The state is famous for spicy cuisine, especially Andhra biryani and pickles. Tirupati, home to the Venkateswara Temple, is one of the world's most visited pilgrimage sites. The state has a strong agricultural base with rice, tobacco, and chillies as major crops. Visakhapatnam serves as the industrial and port city. Kuchipudi classical dance originated here. The state also excels in IT and pharmaceutical industries."
+  },
+  {
+    "id": 2,
+    "state": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "region": "Northeast India",
+    "content": "Arunachal Pradesh, the Land of the Rising Sun, is India's easternmost state bordering China, Bhutan, and Myanmar. Itanagar is its capital. The state is dominated by dense forests, mighty rivers, and the eastern Himalayas. It is home to over 26 major tribes with rich oral traditions and unique festivals like Losar and Ziro Music Festival. Tawang Monastery, the largest in India, is a major Buddhist landmark. Wildlife sanctuaries shelter clouded leopards and red pandas. The state has immense hydropower potential. Agriculture includes wet rice cultivation and horticulture."
+  },
+  {
+    "id": 3,
+    "state": "Assam",
+    "capital": "Dispur",
+    "region": "Northeast India",
+    "content": "Assam is India's gateway to the Northeast, famous for its tea gardens, the Brahmaputra River, and one-horned rhinoceroses. Dispur is the capital while Guwahati serves as the commercial hub. Kaziranga National Park, a UNESCO World Heritage Site, is home to the largest population of Indian one-horned rhinos. Assam produces over 50 percent of India's tea. Bihu is the most celebrated festival with vibrant folk dances. Silk weaving, especially Muga and Eri silk, is a prized craft. The state also has significant petroleum and natural gas reserves."
+  },
+  {
+    "id": 4,
+    "state": "Bihar",
+    "capital": "Patna",
+    "region": "East India",
+    "content": "Bihar is one of India's oldest and most historically significant states. Patna, known as Pataliputra in ancient times, was the capital of the Maurya Empire. Bihar is the birthplace of Buddhism and Jainism. Bodh Gaya, where Gautama Buddha attained enlightenment, is a major pilgrimage site. Nalanda University, an ancient center of learning, was located here. The state is known for Chhath Puja, a unique sun-worshipping festival. Agriculture is the backbone with rice, wheat, and maize being major crops. Bihar is making strides in road infrastructure and education."
+  },
+  {
+    "id": 5,
+    "state": "Chhattisgarh",
+    "capital": "Raipur",
+    "region": "Central India",
+    "content": "Chhattisgarh, carved out of Madhya Pradesh in 2000, is rich in natural resources and tribal culture. Raipur is the capital and commercial center. The state has dense forests covering nearly 44 percent of its area, home to tigers, leopards, and diverse flora. Bastar region is famous for tribal art, Gond paintings, and Dhokra metalcraft. Chitrakote Waterfall is often called the Niagara of India. The state is one of India's leading producers of steel, coal, and electricity. Rice is the staple crop, and the state is known as the Rice Bowl of Central India."
+  },
+  {
+    "id": 6,
+    "state": "Goa",
+    "capital": "Panaji",
+    "region": "West India",
+    "content": "Goa is India's smallest state and a premier tourist destination known for its golden beaches, vibrant nightlife, and Portuguese colonial heritage. Panaji is the capital. Goa was a Portuguese colony for 450 years until 1961, leaving behind baroque churches like Basilica of Bom Jesus, a UNESCO World Heritage Site. The state blends Indian and Portuguese cultures uniquely. Seafood, feni liquor, and vindaloo are iconic to Goan cuisine. Carnival and Shigmo are celebrated with great enthusiasm. Goa has the highest per capita income in India and a thriving tourism and mining industry."
+  },
+  {
+    "id": 7,
+    "state": "Gujarat",
+    "capital": "Gandhinagar",
+    "region": "West India",
+    "content": "Gujarat is India's most industrialized state and the birthplace of Mahatma Gandhi and Sardar Vallabhbhai Patel. Gandhinagar is the capital while Ahmedabad is the largest city and a UNESCO World Heritage City. The state has the longest coastline in India. The Rann of Kutch, a vast salt marsh, hosts the famous Rann Utsav festival. Gujarat is famous for Garba dance during Navratri. The state is a major producer of cotton, groundnuts, and dairy products. It leads India in diamond cutting, pharmaceuticals, and petrochemicals. Gir Forest is the only habitat of the Asiatic lion."
+  },
+  {
+    "id": 8,
+    "state": "Haryana",
+    "capital": "Chandigarh",
+    "region": "North India",
+    "content": "Haryana is a landlocked state in northern India that surrounds Delhi on three sides. Chandigarh, a Union Territory, serves as its capital. The state is one of India's wealthiest and most prosperous, with a strong agricultural economy producing wheat, rice, and sugarcane. Kurukshetra, where the Mahabharata war was fought, is a major pilgrimage site. Haryana has produced numerous Olympic and Commonwealth Games medal winners, especially in wrestling and boxing. The state has a thriving automobile industry in Gurugram and Faridabad. Haryanvi folk dance and music have a distinctive cultural identity."
+  },
+  {
+    "id": 9,
+    "state": "Himachal Pradesh",
+    "capital": "Shimla",
+    "region": "North India",
+    "content": "Himachal Pradesh is a mountainous state in the western Himalayas known for its stunning landscapes, apple orchards, and adventure tourism. Shimla, the summer capital of British India, is now the state capital. Manali, Dharamsala, and Spiti Valley are iconic destinations for trekkers and nature lovers. Dharamsala is home to the Tibetan government-in-exile and the Dalai Lama. The state is one of India's top apple-producing regions. Hydropower is a major source of revenue. Himachali culture is rich in festivals, folk songs, and temple architecture. The Kullu Dussehra festival attracts thousands of visitors."
+  },
+  {
+    "id": 10,
+    "state": "Jharkhand",
+    "capital": "Ranchi",
+    "region": "East India",
+    "content": "Jharkhand, the Land of Forests, was carved out of Bihar in 2000 and is rich in mineral resources. Ranchi is the capital, known for its pleasant climate and waterfalls. The state holds over 40 percent of India's mineral wealth including coal, iron ore, copper, and uranium. Tribal communities like Santals, Mundas, and Oraons have a vibrant cultural heritage. Betla National Park shelters tigers and elephants. Jharkhand is famous for Chhau dance, a martial arts-based folk dance. Traditional art like Sohrai and Khovar painting is gaining global recognition. Agriculture includes rice and maize cultivation."
+  },
+  {
+    "id": 11,
+    "state": "Karnataka",
+    "capital": "Bengaluru",
+    "region": "South India",
+    "content": "Karnataka is one of India's most progressive states, home to Bengaluru — the Silicon Valley of India. Bengaluru houses the largest concentration of IT companies and startups in the country. Mysuru is famous for its Dasara festival, sandalwood products, and the grand Mysore Palace. Hampi, a UNESCO World Heritage Site, contains ruins of the Vijayanagara Empire. The state is known for Carnatic music, Yakshagana dance-drama, and silk weaving. Coffee and sugarcane are major crops. Karnataka has India's largest gold mines at Kolar. The state leads in aerospace and defence manufacturing through HAL and ISRO."
+  },
+  {
+    "id": 12,
+    "state": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "region": "South India",
+    "content": "Kerala, known as God's Own Country, is celebrated for its serene backwaters, lush greenery, and pristine beaches. Thiruvananthapuram is its administrative capital while Kochi serves as the commercial hub. Kerala boasts the highest literacy rate in India. Ayurveda, the ancient healing system, thrives here. The state is famous for Kathakali dance, boat races, and elephant festivals. Coconut plantations and spice gardens are widespread. Kerala's cuisine featuring rice, fish curry, and banana chips is beloved nationwide. Munnar's tea gardens and Wayanad's forests attract nature lovers. The state has a strong diaspora community worldwide."
+  },
+  {
+    "id": 13,
+    "state": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "region": "Central India",
+    "content": "Madhya Pradesh, the Heart of India, is the second-largest state by area. Bhopal is the capital, known for its lakes and the tragic 1984 gas tragedy. The state has the highest number of tiger reserves in India including Kanha, Bandhavgarh, and Pench. Khajuraho temples, a UNESCO World Heritage Site, are famous for their erotic sculptures and architectural brilliance. Sanchi Stupa is a major Buddhist monument. The state produces soybeans, wheat, and pulses extensively. Gwalior Fort and Orchha are historical landmarks. Madhya Pradesh is known for tribal art, folk music, and the Malwa plateau."
+  },
+  {
+    "id": 14,
+    "state": "Maharashtra",
+    "capital": "Mumbai",
+    "region": "West India",
+    "content": "Maharashtra is India's wealthiest state, home to Mumbai — the financial capital. It blends modern cities with ancient caves like Ajanta and Ellora. The state is a hub for Bollywood, textile industries, and IT sectors. Pune is its cultural and educational center. Maharashtra celebrates festivals like Ganesh Chaturthi with grand enthusiasm. The Sahyadri mountain range and Konkan coastline offer stunning landscapes. Agriculture thrives with sugarcane, cotton, and onion crops. The state has a rich Maratha history shaped by Chhatrapati Shivaji Maharaj. Mumbai's Dabbawalas and local train network are globally studied management models."
+  },
+  {
+    "id": 15,
+    "state": "Manipur",
+    "capital": "Imphal",
+    "region": "Northeast India",
+    "content": "Manipur, the Jewel of India, is a northeastern state known for its scenic Loktak Lake, classical Manipuri dance, and rich cultural traditions. Imphal is the capital. The state is famous for producing world-class athletes, especially in boxing — Mary Kom is its most celebrated icon. Polo sport is believed to have originated in Manipur. Loktak Lake, with its unique floating islands called Phumdis, shelters the endangered Sangai deer. The state produces handloom textiles and bamboo crafts. Yaoshang and Lai Haraoba are important festivals. Manipuri cuisine features unique herbs and fermented ingredients."
+  },
+  {
+    "id": 16,
+    "state": "Meghalaya",
+    "capital": "Shillong",
+    "region": "Northeast India",
+    "content": "Meghalaya, the Abode of Clouds, receives some of the highest rainfall in the world. Shillong, the capital, is called the Scotland of the East. Cherrapunji and Mawsynram hold world records for maximum rainfall. The state is known for living root bridges, naturally formed by training tree roots across rivers. Meghalaya has a matrilineal society where inheritance passes through the mother. Nohkalikai Falls and Dawki River with its crystal-clear water are breathtaking natural attractions. The state produces coal, limestone, and pineapples. Wangala and Nongkrem are important tribal festivals celebrating harvest."
+  },
+  {
+    "id": 17,
+    "state": "Mizoram",
+    "capital": "Aizawl",
+    "region": "Northeast India",
+    "content": "Mizoram is a landlocked state in the far northeast of India, known for its hilly terrain, bamboo forests, and highly literate population. Aizawl is the capital perched on a ridge at 1132 meters. The state has one of India's highest literacy rates, over 91 percent. Christianity is the predominant religion due to British missionary influence. Mizo culture revolves around Cheraw, the bamboo dance, and vibrant handloom textiles. Dampa Tiger Reserve shelters diverse wildlife. The state experiences a unique phenomenon called Mautam every 48 years when bamboo flowers trigger a rat population explosion. Agriculture includes maize and ginger."
+  },
+  {
+    "id": 18,
+    "state": "Nagaland",
+    "capital": "Kohima",
+    "region": "Northeast India",
+    "content": "Nagaland is home to 16 major Naga tribes, each with distinct traditions, languages, and attire. Kohima is the capital, famous for the World War II Battle of Kohima cemetery. The Hornbill Festival, held in December at Kisama Heritage Village, is a grand celebration of all Naga tribes' culture. Nagaland is heavily forested and known for its biodiversity. The state produces rice, corn, millet, and the world-famous Naga King Chilli, one of the hottest in the world. Nagas are known for skilled craftsmanship in wood carving, weaving, and jewellery. Christianity is the dominant religion across the state."
+  },
+  {
+    "id": 19,
+    "state": "Odisha",
+    "capital": "Bhubaneswar",
+    "region": "East India",
+    "content": "Odisha is an ancient state on India's eastern coast, famous for the Jagannath Temple in Puri, the Sun Temple at Konark, and the Lingaraja Temple in Bhubaneswar. The Konark Sun Temple is a UNESCO World Heritage Site. Bhubaneswar, known as the Temple City of India, is the capital. The state is celebrated for Odissi classical dance, Pattachitra paintings, and silver filigree jewellery. The Rath Yatra festival in Puri draws millions of devotees. Odisha has a long coastline with Chilika Lake, Asia's largest coastal lagoon, home to Irrawaddy dolphins and migratory birds. Rice and coconut are primary crops."
+  },
+  {
+    "id": 20,
+    "state": "Punjab",
+    "capital": "Chandigarh",
+    "region": "North India",
+    "content": "Punjab, the Land of Five Rivers, is India's most fertile state and granary. Chandigarh, a Union Territory, serves as its capital. The state is the heartland of Sikhism, with the Golden Temple in Amritsar being the holiest Sikh shrine. Punjab's agricultural output of wheat and rice feeds a significant portion of India. Bhangra and Giddha are vibrant folk dances enjoyed globally. The Wagah Border ceremony near Amritsar attracts thousands of visitors daily. Punjab is known for its warm hospitality and delicious cuisine including butter chicken, sarson da saag, and makki di roti. The state has a large diaspora in UK, Canada, and USA."
+  },
+  {
+    "id": 21,
+    "state": "Rajasthan",
+    "capital": "Jaipur",
+    "region": "North India",
+    "content": "Rajasthan is India's largest state, famous for its golden deserts, magnificent forts, and vibrant culture. Jaipur, the Pink City, is a UNESCO World Heritage Site with palaces like Hawa Mahal and Amber Fort. The Thar Desert dominates the western region. Rajasthan is known for folk music, camel fairs, and colorful traditional attire. Udaipur's lakes and Jodhpur's blue city are globally admired. The state was historically ruled by powerful Rajput clans. Crafts like block printing, blue pottery, and gemstone cutting are world-renowned. Tourism is a major economic driver and the Pushkar Camel Fair is internationally famous."
+  },
+  {
+    "id": 22,
+    "state": "Sikkim",
+    "capital": "Gangtok",
+    "region": "Northeast India",
+    "content": "Sikkim is India's smallest state by area and population, nestled in the eastern Himalayas. Gangtok is its picturesque capital. The state is home to Kangchenjunga, the world's third-highest peak. Sikkim was the first fully organic state in India, banning chemical fertilizers and pesticides. Buddhism is the dominant religion with numerous monasteries including Rumtek and Pemayangtse. The Teesta River is ideal for white-water rafting. Sikkim produces cardamom, ginger, and Darjeeling tea. The state is ethnically diverse with Nepali, Lepcha, and Bhutia communities. Losar, Saga Dawa, and Dasain are major festivals celebrated with great enthusiasm."
+  },
+  {
+    "id": 23,
+    "state": "Tamil Nadu",
+    "capital": "Chennai",
+    "region": "South India",
+    "content": "Tamil Nadu is one of India's oldest civilizations with a rich Dravidian culture. Chennai, the capital, is the Detroit of India due to its automobile industry. The state is famous for classical Bharatanatyam dance and Carnatic music. Tamil literature, including Thirukkural, is among the world's oldest. Temples like Meenakshi Amman and Brihadeeswarar are architectural marvels. The coastline stretches beautifully along the Bay of Bengal. Tamil Nadu leads in silk weaving, especially Kanchipuram silk. It has a strong IT corridor in Chennai and excellent educational institutions. Marina Beach is one of the world's longest urban beaches."
+  },
+  {
+    "id": 24,
+    "state": "Telangana",
+    "capital": "Hyderabad",
+    "region": "South India",
+    "content": "Telangana is India's youngest state, formed in 2014 from Andhra Pradesh. Hyderabad, its capital, is a global IT hub and home to HITEC City with giants like Microsoft, Google, and Amazon. The city is famous for Hyderabadi biryani, the Charminar, and Golconda Fort. Telangana has a strong handicraft tradition including Pochampally ikat silk and Bidriware metalwork. Nagarjuna Sagar Dam on the Krishna River is one of India's largest irrigation projects. Warangal was the ancient capital of the Kakatiya dynasty. The state celebrates Bathukamma, a unique floral festival. Telangana is growing rapidly in pharma and aerospace sectors."
+  },
+  {
+    "id": 25,
+    "state": "Tripura",
+    "capital": "Agartala",
+    "region": "Northeast India",
+    "content": "Tripura is a small state in northeastern India surrounded by Bangladesh on three sides. Agartala is the capital. The state has a rich tribal heritage with 19 recognized tribes including Tripuri, Reang, and Chakma. Ujjayanta Palace in Agartala is a prominent landmark. Tripura is famous for handloom weaving and bamboo crafts. The Neermahal Water Palace on Rudrasagar Lake is a unique architectural gem. Natural rubber, pineapple, and tea are important crops. Tripura has one of India's highest literacy rates. The Dumboor Lake and Sepahijala Wildlife Sanctuary are popular nature destinations. Kharchi Puja is the most important tribal festival."
+  },
+  {
+    "id": 26,
+    "state": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "region": "North India",
+    "content": "Uttar Pradesh is India's most populous state and holds immense historical and spiritual significance. Lucknow, the City of Nawabs, is the capital, famous for its Awadhi cuisine, chikankari embroidery, and tehzeeb culture. Agra houses the Taj Mahal, a UNESCO World Heritage Site and symbol of eternal love. Varanasi, on the banks of the Ganges, is one of the world's oldest living cities and a major pilgrimage site. The state is also home to Mathura, Vrindavan, Allahabad, and Ayodhya. Uttar Pradesh is India's largest producer of wheat, sugarcane, and potatoes. Kathak classical dance originated here."
+  },
+  {
+    "id": 27,
+    "state": "Uttarakhand",
+    "capital": "Dehradun",
+    "region": "North India",
+    "content": "Uttarakhand, the Land of Gods, is a Himalayan state known for pilgrimage sites, adventure tourism, and pristine natural beauty. Dehradun is the capital. The Char Dham circuit — Badrinath, Kedarnath, Gangotri, and Yamunotri — attracts millions of pilgrims annually. Jim Corbett National Park is India's oldest and most famous tiger reserve. The Garhwal and Kumaon regions have distinct cultural identities. Rishikesh is the Yoga Capital of the World and a hub for white-water rafting. The state is home to the Indian Military Academy and several premier educational institutions. Agriculture includes apple orchards, basmati rice, and medicinal herbs."
+  },
+  {
+    "id": 28,
+    "state": "West Bengal",
+    "capital": "Kolkata",
+    "region": "East India",
+    "content": "West Bengal is the cultural heartland of India, shaped by the Bengal Renaissance. Kolkata, the City of Joy, was once the British colonial capital. It is home to Nobel laureate Rabindranath Tagore and revolutionary thinker Subhas Chandra Bose. The state is famous for Durga Puja, a grand cultural festival. Rasgulla and mishti doi are iconic Bengali sweets. The Sundarbans mangrove forest, a UNESCO site, shelters the Royal Bengal Tiger. Tea gardens thrive in Darjeeling. West Bengal leads in jute production and has a strong tradition of literature, cinema, and fine arts. Kolkata's tram network is the oldest in Asia."
+  },
+  {
+    "id": 29,
+    "state": "Andaman and Nicobar Islands",
+    "capital": "Port Blair",
+    "region": "Union Territory",
+    "content": "The Andaman and Nicobar Islands are a Union Territory comprising over 570 islands in the Bay of Bengal. Port Blair is the capital. The islands are famous for pristine beaches, coral reefs, and rich marine biodiversity. Radhanagar Beach on Havelock Island is ranked among Asia's best beaches. The Cellular Jail in Port Blair, known as Kala Pani, is a powerful reminder of India's freedom struggle. The Jarawa and Sentinelese tribes are among the world's most isolated indigenous communities. The islands offer world-class scuba diving and snorkeling. Coconut, paddy, and tropical fruits are grown locally. The Andaman Sea and dense forests cover most of the territory."
+  },
+  {
+    "id": 30,
+    "state": "Chandigarh",
+    "capital": "Chandigarh",
+    "region": "Union Territory",
+    "content": "Chandigarh is a Union Territory that serves as the shared capital of Punjab and Haryana. It is India's first planned city, designed by Swiss-French architect Le Corbusier in the 1950s. The city is divided into neat sectors with wide roads, green spaces, and modern infrastructure. Rock Garden, created by Nek Chand using industrial waste, is a famous attraction. Sukhna Lake is a beautiful recreational spot. Chandigarh consistently ranks among India's cleanest and most livable cities. It has excellent educational institutions including PGI, Panjab University, and IIT Ropar nearby. The city has a high per capita income and quality of life."
+  },
+  {
+    "id": 31,
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "capital": "Daman",
+    "region": "Union Territory",
+    "content": "Dadra and Nagar Haveli and Daman and Diu is a Union Territory formed by merging two former Portuguese enclaves in 2020. Daman is the administrative capital. The territory has beautiful beaches along the Arabian Sea coast, Portuguese-era churches, and historic fortresses. Diu Island is a popular tourist destination with a relaxed atmosphere. The region has significant industrial development, especially in plastics and chemicals. Dadra and Nagar Haveli is known for tribal culture and the Vanganga Lake Garden. Local cuisine blends Indian and Portuguese flavors. Coconut, paddy, and wheat are major crops. The territory has a growing tourism sector."
+  },
+  {
+    "id": 32,
+    "state": "Delhi",
+    "capital": "New Delhi",
+    "region": "Union Territory",
+    "content": "Delhi, officially the National Capital Territory, is India's capital and second-most populous city. New Delhi serves as the seat of the Indian government. Delhi has a history spanning over 5000 years with monuments like the Red Fort, Qutub Minar, Humayun's Tomb, and India Gate. It is a melting pot of cultures with people from across India. Delhi's street food — chaat, parathas, and nihari — is legendary. Connaught Place and Khan Market are commercial hubs. The city has India's most extensive metro network. Delhi houses India's top educational and research institutions. The India International Trade Fair is held annually at Pragati Maidan."
+  },
+  {
+    "id": 33,
+    "state": "Jammu and Kashmir",
+    "capital": "Srinagar (Summer), Jammu (Winter)",
+    "region": "Union Territory",
+    "content": "Jammu and Kashmir is a Union Territory in the northernmost part of India, known for breathtaking landscapes, Himalayan peaks, and rich cultural heritage. Srinagar, the summer capital, is famous for Dal Lake, houseboats, and Mughal gardens. Jammu, the winter capital, is a major pilgrimage center with the Vaishno Devi shrine. Kashmir is renowned for Pashmina shawls, saffron, and walnut wood crafts. The region has a diverse cultural fabric blending Hindu, Muslim, and Buddhist traditions. Gulmarg and Pahalgam are premier ski and tourism destinations. Agriculture includes apple orchards, rice, and maize. The valley is often called Paradise on Earth."
+  },
+  {
+    "id": 34,
+    "state": "Ladakh",
+    "capital": "Leh",
+    "region": "Union Territory",
+    "content": "Ladakh is a high-altitude Union Territory nestled between the Karakoram and Himalayan ranges. Leh is the capital and main town. It is one of the world's highest inhabited regions with stunning landscapes of barren mountains, glaciers, and turquoise lakes. Pangong Lake, famous from Bollywood films, stretches across India and China. Ladakh has a strong Tibetan Buddhist culture with ancient monasteries like Thiksey, Hemis, and Lamayuru. The region attracts adventure seekers for trekking, motorbike expeditions, and river rafting on the Zanskar. Ladakh hosts the Hemis Festival celebrating Guru Padmasambhava. Pashmina goat herding is a traditional livelihood of Changpa nomads."
+  },
+  {
+    "id": 35,
+    "state": "Lakshadweep",
+    "capital": "Kavaratti",
+    "region": "Union Territory",
+    "content": "Lakshadweep is India's smallest Union Territory, an archipelago of 36 coral islands in the Arabian Sea. Kavaratti is the capital. The islands are known for pristine white-sand beaches, crystal-clear turquoise lagoons, and rich coral reef ecosystems. The population is predominantly Muslim with deep maritime traditions. Lakshadweep is one of India's premier scuba diving and snorkeling destinations. Coconut cultivation is the primary agricultural activity, and coir products are locally crafted. The Bangaram Island Resort is a luxury eco-tourism destination. The territory has a very low population and limited industrial activity. Access to some islands requires special permits to protect the fragile ecosystem."
+  },
+  {
+    "id": 36,
+    "state": "Puducherry",
+    "capital": "Puducherry",
+    "region": "Union Territory",
+    "content": "Puducherry, formerly Pondicherry, is a Union Territory on the southeastern coast of India with a strong French colonial heritage. The capital city itself is called Puducherry. The French Quarter with its yellow colonial buildings, boulangeries, and tree-lined promenades is a major attraction. Sri Aurobindo Ashram and Auroville, an international township promoting human unity, draw spiritual seekers from around the world. The territory has beautiful beaches including Promenade Beach and Paradise Beach. Tamil and French are both official languages. Puducherry is exempt from certain alcohol taxes making it popular with tourists. Local cuisine blends Tamil and French culinary traditions uniquely."
+  }
+]
