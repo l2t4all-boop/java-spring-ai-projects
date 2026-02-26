@@ -1,0 +1,140 @@
+{
+  "courses": [
+    {
+      "course": "Core Java",
+      "topics": [
+        "Exception Handling",
+        "Collections Framework",
+        "Object Oriented Programming",
+        "Generics",
+        "Multithreading",
+        "Java 8 Features (Streams, Lambda)",
+        "String Handling",
+        "Java I/O and Serialization",
+        "Design Patterns",
+        "JDBC",
+        "Memory Management and Garbage Collection",
+        "Interfaces and Abstract Classes"
+      ]
+    },
+    {
+      "course": "SQL",
+      "topics": [
+        "Joins",
+        "Indexes",
+        "Operators",
+        "Aggregate Functions",
+        "Subqueries",
+        "Stored Procedures",
+        "Triggers",
+        "Views",
+        "Transactions and ACID Properties",
+        "Normalization",
+        "DDL, DML, DCL, TCL Commands",
+        "Window Functions"
+      ]
+    },
+    {
+      "course": "Python",
+      "topics": [
+        "Basics and Data Types",
+        "Object Oriented Programming",
+        "Data Structures (List, Tuple, Set, Dict)",
+        "File Handling",
+        "Exception Handling",
+        "Modules and Packages",
+        "Iterators and Generators",
+        "Decorators",
+        "Regular Expressions",
+        "Multithreading and Multiprocessing",
+        "Python Standard Library",
+        "Virtual Environments and pip"
+      ]
+    },
+    {
+      "course": "HTML",
+      "topics": [
+        "HTML Basics and Structure",
+        "Semantic Elements",
+        "Forms and Input Types",
+        "Tables",
+        "HTML5 New Features",
+        "Media Elements (Audio, Video)",
+        "Canvas and SVG",
+        "Meta Tags and SEO",
+        "Accessibility (ARIA)",
+        "LocalStorage and SessionStorage",
+        "Iframes and Embedding",
+        "HTML Entities and Special Characters"
+      ]
+    },
+    {
+      "course": "JavaScript",
+      "topics": [
+        "Core Concepts (var, let, const, hoisting)",
+        "Functions and Scope",
+        "DOM Manipulation",
+        "Events and Event Handling",
+        "Asynchronous JavaScript (Promises, async/await)",
+        "ES6+ Features",
+        "Closures and Higher Order Functions",
+        "Prototypes and Inheritance",
+        "Error Handling",
+        "Fetch API and AJAX",
+        "Modules (import/export)",
+        "JavaScript Design Patterns"
+      ]
+    },
+    {
+      "course": "React",
+      "topics": [
+        "JSX and Components",
+        "Props and State",
+        "Component Lifecycle",
+        "React Hooks (useState, useEffect)",
+        "Context API",
+        "React Router",
+        "Redux and State Management",
+        "Forms and Controlled Components",
+        "Error Boundaries",
+        "Performance Optimization (memo, useMemo, useCallback)",
+        "Custom Hooks",
+        "Testing in React (Jest, React Testing Library)"
+      ]
+    },
+    {
+      "course": "Spring Boot",
+      "topics": [
+        "Spring Core and Dependency Injection",
+        "Spring Boot Auto Configuration",
+        "RESTful Web Services",
+        "Spring Data JPA",
+        "Spring Security",
+        "Exception Handling in Spring",
+        "Spring Boot Actuator",
+        "Microservices Architecture",
+        "Spring Cloud",
+        "Testing in Spring Boot",
+        "Logging and Monitoring",
+        "Spring Boot with Docker"
+      ]
+    },
+    {
+      "course": "Data Structures and Algorithms",
+      "topics": [
+        "Arrays and Strings",
+        "Linked Lists",
+        "Stacks and Queues",
+        "Trees (Binary Tree, BST)",
+        "Heaps and Priority Queues",
+        "Graphs (BFS, DFS)",
+        "Hashing",
+        "Sorting Algorithms",
+        "Searching Algorithms",
+        "Dynamic Programming",
+        "Recursion and Backtracking",
+        "Greedy Algorithms"
+      ]
+    }
+  ]
+}

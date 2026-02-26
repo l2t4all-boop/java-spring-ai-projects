@@ -17,6 +17,7 @@
         </processorPath>
         <module name="springairag" />
         <module name="springai" />
+        <module name="interview-prep-agent" />
         <module name="state-info-app" />
       </profile>
     </annotationProcessing>
@@ -24,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="commons" options="" />
+      <module name="interview-prep-agent" options="-parameters" />
       <module name="learning-spring-ai" options="" />
       <module name="springai" options="-parameters" />
       <module name="springairag" options="-parameters" />

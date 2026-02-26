@@ -14,5 +14,6 @@
 		<module>springairag</module>
 		<module>state-info-app</module>
 		<module>commons</module>
+		<module>interview-prep-agent</module>
 	</modules>
 </project>
